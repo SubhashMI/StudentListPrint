@@ -11,6 +11,7 @@ package arrayofobjecct;
 public class Student {
     private double number;
     private  String name;
+    private int sid;
     
     public Student (){
     number=991662152;
